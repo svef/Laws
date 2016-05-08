@@ -1,7 +1,7 @@
 # Lög Samtaka Vefiðnaðarins
 
 ### 1. gr.
-Félagið heitir Samtök vefiðnaðarins, SVEF
+Félagið heitir Samtök vefiðnaðarins (e. The Icelandic Web Industry Association), skammstafað SVEF.
 
 ### 2. gr.
 Heimili félagsins og varnarþing er í Reykjavík

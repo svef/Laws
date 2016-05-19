@@ -38,7 +38,7 @@ Dagskrá aðalfundar skal vera sem hér segir:
   8.  Önnur mál
 
 ### 8. gr.
-Starfstímabil félagsins er almanaksárið. Á aðalfundi félagsins skal stjórn gera upp árangur liðins árs. Aðeins félagsmenn mega vera þátttakendur á aðalfundi.
+Starfstímabil félagsins er almanaksárið. Á aðalfundi félagsins skal stjórn gera upp árangur liðins árs.
 
 ### 9. gr.
 Árgjald félagsins er ákvarðað á aðalfundi að tillögu stjórnar, það skal vera hóflegt og innheimt árlega.

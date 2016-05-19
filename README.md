@@ -16,7 +16,7 @@ Hlutverk félagsins er að
 - standa að reglulegum viðburðum
 
 ### 5. gr.
-Rétt til inngöngu í félagið hafa allir þeir sem starfa við eða hafa áhuga á vefsmíði, -viðhaldi, -forritun, -markaðssetningu og -hönnun.
+Rétt til inngöngu í félagið hafa allir þeir sem starfa við eða hafa áhuga á vefiðnaðinum og tengdum greinum.
 
 ### 6. gr.
 - Stjórn félagsins skal skipuð félagsmönnum þ.e. formanni og sex meðstjórnendum.

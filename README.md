@@ -13,7 +13,7 @@ Tilgangur félagsins er að sameina alla sem vinna að vefmálum í víðum skil
 Hlutverk félagsins er að
 - standa að Íslensku vefverðlaununum á ári hverju
 - skapa vettvang fyrir faglega umræðu, fróðleik og tengsl milli félagsmanna
-- standa að reglulegum hádegis - og morgunfundum fyrir félagsmenn
+- standa að reglulegum viðburðum
 
 ### 5. gr.
 Rétt til inngöngu í félagið hafa allir þeir sem starfa við eða hafa áhuga á vefsmíði, -viðhaldi, -forritun, -markaðssetningu og -hönnun.

@@ -39,8 +39,10 @@ Dagskrá aðalfundar skal vera sem hér segir:
 
 Boða skal til aukaaðalfundar svo fljótt sem auðið er ef meirihluti stjórnar eða a.m.k. fjórðungur félagsmanna fer fram á það skriflega og leggur fram tillögu að dagskrá.
 
+Starfstímabil félagsins er milli aðalfunda og reikningsár er almanaksárið. Skýrsla stjórnar skal gera upp árangur liðins starfstímabils.
+
 ### 8. gr.
-Starfstímabil félagsins er almanaksárið. Á aðalfundi félagsins skal stjórn gera upp árangur liðins árs.
+Lögum félagsins má breyta á aðalfundi eða aukaaðalfundi með samþykki 2/3 hluta atkvæða. Tillögur til lagabreytinga skulu liggja fyrir til skoðunar fyrir félagsmenn áður en aðalfundur er haldinn.
 
 ### 9. gr.
 Árgjald félagsins er ákvarðað á aðalfundi að tillögu stjórnar, það skal vera hóflegt og innheimt árlega.

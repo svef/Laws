@@ -37,6 +37,8 @@ Dagskrá aðalfundar skal vera sem hér segir:
   7.  Kosning tveggja skoðunarmanna reikninga
   8.  Önnur mál
 
+Boða skal til aukaaðalfundar svo fljótt sem auðið er ef meirihluti stjórnar eða a.m.k. fjórðungur félagsmanna fer fram á það skriflega og leggur fram tillögu að dagskrá.
+
 ### 8. gr.
 Starfstímabil félagsins er almanaksárið. Á aðalfundi félagsins skal stjórn gera upp árangur liðins árs.
 

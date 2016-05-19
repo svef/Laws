@@ -49,4 +49,6 @@ Starfstímabil félagsins er almanaksárið. Á aðalfundi félagsins skal stjó
 Rekstarafgangi félagsins skal varið til að efla starfsemi félagsins.
 
 ### 11. gr.
-Ákvörðun um slit félagsins verður tekin á aðalfundi með einföldum meirihluta og renna eignir þess til góðgerðarmála.
+Komi fram tillaga um slit félagsins, þarf sú tillaga samþykki 2/3 atkvæðisbærra fundarmanna. Þó fæst hún eigi afgreidd nema a.m.k. fimmtungur félagsmanna mæti til aðalfundar. Ef ekki næst tilskilin fundarsókn skal boða til framhaldsaðalfundar um tillöguna innan mánaðar. Sá fundur getur afgreitt tillöguna án tillits til fjölda fundarmanna.
+
+Verði félagið lagt niður skal á sama fundi ráðstafa eignum þess í samræmi við tilgang og/eða hlutverk félagsins. Félagsmenn eiga ekki tilkall til eigna félagsins.

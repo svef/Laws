@@ -21,6 +21,7 @@ Rétt til inngöngu í félagið hafa allir þeir sem starfa við eða hafa áhu
 ### 6. gr.
 - Stjórn félagsins skal skipuð félagsmönnum þ.e. formanni og sex meðstjórnendum.
 - Stjórnarmenn skulu kosnir til tveggja ára í senn og ganga úr stjórninni á víxl, en formaður er kosinn árlega á aðalfundi.
+  - Kjörgengir til formanns SVEF eru þeir félagsmenn sem hafa verið skráðir félagið og greitt félagsjöld í  a.m.k. 1 ár eða hafa setið í stjórn á liðnu stjórnarári. Ef formannsframboð kemur frá sitjandi stjórnarmanni er sá aðili sjálfkjörinn formaður nema 2  eða fleiri stjórnarmenn bjóði sig fram. Þá er kosið milli frambjóðenda úr hópi stjórnarmanna. Undanþága frá þessu er veitt aðeins ef að ekkert ofangreint á við, þá geta allir félagsmenn boðið sig fram
 - Stjórnin skiptir sjálf með sér verkum og kýs varaformann, ritara, gjaldkera og skipar í önnur embætti. Falli atkvæði jöfn á stjórnarfundum ræður atkvæði formanns. Framboð til stjórnar skulu sendar stjórninni eigi síðar en degi fyrir aðalfund.
 - Stjórnin ræður framkvæmdastjóra og hefur eftirlit með störfum hans. Framkvæmdastjóri ber ábyrgð á stjórnun félagsins, daglegum rekstri og eftirfylgni, þ.m.t. fjármálum gagnvart stjórn. Firmaritun félagsins er í höndum stjórnar.
 

@@ -28,7 +28,7 @@ Rétt til inngöngu í félagið hafa allir þeir sem starfa við eða hafa áhu
 Aðalfundur fer með æðsta vald í málefnum félagsins og skal hann haldinn eigi síðar en í maí ár hvert. Aðalfundur er löglegur sé boðað til hans með minnst tveggja vikna fyrirvara með sannanlegum hætti. Atkvæðisrétt á aðalfundi hafa þeir sem eru skráðir í félagið og hafa greitt árgjald til félagsins. Hver atkvæðisbær félagsmaður hefur eitt atkvæði og ræður afl atkvæða úrslitum mála, nema annars sé getið í lögum félagsins.
 
 Dagskrá aðalfundar skal vera sem hér segir:
-  1.  Kosning fundarstjóra og fundarritara
+  1.  Kosning fundarritara
   2.  Skýrsla stjórnar lögð fram
   3.  Reikningar lagðir fram til samþykktar
   4.  Lagabreytingar

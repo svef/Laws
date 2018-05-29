@@ -19,9 +19,9 @@ Hlutverk félagsins er að
 Rétt til inngöngu í félagið hafa allir þeir sem starfa við eða hafa áhuga á vefiðnaðinum og tengdum greinum.
 
 ### 6. gr.
-- Stjórn félagsins skal skipuð félagsmönnum þ.e. formanni og sex meðstjórnendum.
-- Stjórnarmenn skulu kosnir til tveggja ára í senn og ganga úr stjórninni á víxl, en formaður er kosinn árlega á aðalfundi.
-- Stjórnin skiptir sjálf með sér verkum og kýs varaformann, ritara, gjaldkera og skipar í önnur embætti. Falli atkvæði jöfn á stjórnarfundum ræður atkvæði formanns. Framboð til stjórnar skulu sendar stjórninni eigi síðar en degi fyrir aðalfund.
+- Stjórn félagsins skal skipuð 6 félagsmönnum.
+- Stjórnarmenn skulu kosnir til tveggja ára í senn og ganga úr stjórninni á víxl.
+- Stjórnin skiptir sjálf með sér verkum til árs í senn og kýs formann, varaformann, ritara, gjaldkera og önnur embætti. Falli atkvæði jöfn á stjórnarfundum ræður atkvæði formanns. Framboð til stjórnar skulu sendar stjórninni eigi síðar en degi fyrir aðalfund.
 - Stjórnin ræður framkvæmdastjóra og hefur eftirlit með störfum hans. Framkvæmdastjóri ber ábyrgð á stjórnun félagsins, daglegum rekstri og eftirfylgni, þ.m.t. fjármálum gagnvart stjórn. Firmaritun félagsins er í höndum stjórnar.
 
 ### 7. gr.
